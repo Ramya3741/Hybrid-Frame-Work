@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="18" total="28" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-20T13:00:07Z" name="Suite" finished-at="2022-05-20T13:06:30Z" duration-ms="382731">
+    <groups>
+    </groups>
+    <test started-at="2022-05-20T13:00:07Z" name="Test" finished-at="2022-05-20T13:06:30Z" duration-ms="382731">
+      <class name="com.mindtree.testCases.TC__SofaTest__003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC__SofaTest__003@54eb2b70]" started-at="2022-05-20T13:02:08Z" name="setup" finished-at="2022-05-20T13:02:37Z" duration-ms="28675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SofaTest()[pri:0, instance:com.mindtree.testCases.TC__SofaTest__003@54eb2b70]" started-at="2022-05-20T13:02:37Z" name="SofaTest" finished-at="2022-05-20T13:02:49Z" duration-ms="12422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SofaTest -->
+      </class> <!-- com.mindtree.testCases.TC__SofaTest__003 -->
+      <class name="com.mindtree.testCases.TC__WishlistTest_10">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC__WishlistTest_10@6c2ed0cd]" started-at="2022-05-20T13:06:06Z" name="setup" finished-at="2022-05-20T13:06:22Z" duration-ms="16615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="WishlistTest()[pri:0, instance:com.mindtree.testCases.TC__WishlistTest_10@6c2ed0cd]" started-at="2022-05-20T13:06:22Z" name="WishlistTest" finished-at="2022-05-20T13:06:30Z" duration-ms="7295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WishlistTest -->
+      </class> <!-- com.mindtree.testCases.TC__WishlistTest_10 -->
+      <class name="com.mindtree.testCases.TC_DinningTest_007">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC_DinningTest_007@73302995]" started-at="2022-05-20T13:05:14Z" name="setup" finished-at="2022-05-20T13:05:29Z" duration-ms="15682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="StudyTest()[pri:0, instance:com.mindtree.testCases.TC_DinningTest_007@73302995]" started-at="2022-05-20T13:05:29Z" name="StudyTest" finished-at="2022-05-20T13:05:42Z" duration-ms="12605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StudyTest -->
+      </class> <!-- com.mindtree.testCases.TC_DinningTest_007 -->
+      <class name="com.mindtree.testCases.TC_AboutusTest_004">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC_AboutusTest_004@45a37759]" started-at="2022-05-20T13:02:49Z" name="setup" finished-at="2022-05-20T13:03:07Z" duration-ms="18074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="StudyTest()[pri:0, instance:com.mindtree.testCases.TC_AboutusTest_004@45a37759]" started-at="2022-05-20T13:03:07Z" name="StudyTest" finished-at="2022-05-20T13:03:18Z" duration-ms="10770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StudyTest -->
+      </class> <!-- com.mindtree.testCases.TC_AboutusTest_004 -->
+      <class name="com.mindtree.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="suitesetup()[pri:0, instance:com.mindtree.testCases.TC_LoginTest_001@6f7923a5]" started-at="2022-05-20T13:00:07Z" name="suitesetup" finished-at="2022-05-20T13:00:07Z" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suitesetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC_LoginTest_001@6f7923a5]" started-at="2022-05-20T13:00:07Z" name="setup" finished-at="2022-05-20T13:00:48Z" duration-ms="40878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.mindtree.testCases.TC_LoginTest_001@6f7923a5]" started-at="2022-05-20T13:00:48Z" name="loginTest" finished-at="2022-05-20T13:01:24Z" duration-ms="36279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mindtree.testCases.TC_LoginTest_001@6f7923a5]" started-at="2022-05-20T13:06:30Z" name="tearDown" finished-at="2022-05-20T13:06:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mindtree.testCases.TC_LoginTest_001 -->
+      <class name="com.mindtree.testCases.TC_BedTest__005">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC_BedTest__005@63611043]" started-at="2022-05-20T13:03:18Z" name="setup" finished-at="2022-05-20T13:03:36Z" duration-ms="18383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="BedTest()[pri:0, instance:com.mindtree.testCases.TC_BedTest__005@63611043]" started-at="2022-05-20T13:03:36Z" name="BedTest" finished-at="2022-05-20T13:03:57Z" duration-ms="21068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BedTest -->
+      </class> <!-- com.mindtree.testCases.TC_BedTest__005 -->
+      <class name="com.mindtree.testCases.TC_StudyTest_002">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC_StudyTest_002@74a6f9c1]" started-at="2022-05-20T13:01:24Z" name="setup" finished-at="2022-05-20T13:01:47Z" duration-ms="23091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="StudyTest()[pri:0, instance:com.mindtree.testCases.TC_StudyTest_002@74a6f9c1]" started-at="2022-05-20T13:01:47Z" name="StudyTest" finished-at="2022-05-20T13:02:08Z" duration-ms="20636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StudyTest -->
+      </class> <!-- com.mindtree.testCases.TC_StudyTest_002 -->
+      <class name="com.mindtree.testCases.TC__TopDealTest__006">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC__TopDealTest__006@2d778add]" started-at="2022-05-20T13:04:36Z" name="setup" finished-at="2022-05-20T13:04:54Z" duration-ms="18523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TopdealTest()[pri:0, instance:com.mindtree.testCases.TC__TopDealTest__006@2d778add]" started-at="2022-05-20T13:04:54Z" name="TopdealTest" finished-at="2022-05-20T13:05:14Z" duration-ms="19151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TopdealTest -->
+      </class> <!-- com.mindtree.testCases.TC__TopDealTest__006 -->
+      <class name="com.mindtree.testCases.TC_orderTest__009">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC_orderTest__009@20ca951f]" started-at="2022-05-20T13:03:57Z" name="setup" finished-at="2022-05-20T13:04:17Z" duration-ms="19800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderTest()[pri:0, instance:com.mindtree.testCases.TC_orderTest__009@20ca951f]" started-at="2022-05-20T13:04:17Z" name="orderTest" finished-at="2022-05-20T13:04:36Z" duration-ms="18638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderTest -->
+      </class> <!-- com.mindtree.testCases.TC_orderTest__009 -->
+      <class name="com.mindtree.testCases.TC_SearchTest__008">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mindtree.testCases.TC_SearchTest__008@1838ccb8]" started-at="2022-05-20T13:05:42Z" name="setup" finished-at="2022-05-20T13:05:56Z" duration-ms="14229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchTest()[pri:0, instance:com.mindtree.testCases.TC_SearchTest__008@1838ccb8]" started-at="2022-05-20T13:05:56Z" name="SearchTest" finished-at="2022-05-20T13:06:06Z" duration-ms="9743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+      </class> <!-- com.mindtree.testCases.TC_SearchTest__008 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

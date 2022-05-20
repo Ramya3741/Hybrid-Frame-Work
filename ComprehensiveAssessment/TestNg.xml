@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+        <class name="com.mindtree.testCases.TC_LoginTest_001"/>
+        <class name="com.mindtree.testCases.TC_StudyTest_002"/>
+        <class name="com.mindtree.testCases.TC__SofaTest__003"/>
+        <class name="com.mindtree.testCases.TC_AboutusTest_004"/>
+        <class name="com.mindtree.testCases.TC_BedTest__005"/>
+      <class name="com.mindtree.testCases.TC_orderTest__009"/>
+      <class name="com.mindtree.testCases.TC__TopDealTest__006"/>
+     <class name="com.mindtree.testCases.TC_DinningTest_007"/>
+     <class name="com.mindtree.testCases.TC_SearchTest__008"/>
+     <class name="com.mindtree.testCases.TC_orderTest__009"/>
+      <class name="com.mindtree.testCases.TC__WishlistTest_10"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
